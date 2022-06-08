@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 check out my first repository on github
 
 
 **Pengister/pengister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing my data science and machine learning skill ...
 - 🌱 I’m currently learning Data analysis on NG30Daysof Learning ...
